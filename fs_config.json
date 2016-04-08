@@ -1,0 +1,42 @@
+{	"providers": [
+			{
+			"Provider":"adcolony",
+				"gradle":"com.supersonic.adapters:adcolonyadapter:1.1.6@jar"
+			},
+
+			{"Provider":"applovin",
+				"gradle":"com.supersonic.adapters:applovinadapter:1.1.6@jar"
+			},
+
+			{"Provider":"chartboost",
+				"gradle":"com.supersonic.adapters:chartboostadapter:1.1.6@jar"
+			},
+
+			{"Provider":"flurry",
+				"gradle":"com.supersonic.adapters:flurryadapter:1.1.6@jar"
+			},
+
+			{"Provider":"hyprmx",
+				"gradle":"com.supersonic.adapters:hyprmxadapter:1.1.6@jar",
+					"reqjars":"/documents/Helpful-tools/File-size-calculator/Required-jars/HyprMX"
+			},
+
+			{"Provider":"inmobi",
+				"gradle":"com.supersonic.adapters:inmobiadapter:1.1.6@jar"
+			},
+
+			{"Provider":"nativex",
+				"gradle":"com.supersonic.adapters:nativexadapter:1.1.6@jar",
+					"reqjars":"/documents/Helpful-tools/File-size-calculator/Required-jars/NativeX"
+			},
+
+			{"Provider":"unityads",
+				"gradle":"com.supersonic.adapters:unityadsadapter:1.1.6@jar",
+					"reqjars":"/documents/Helpful-tools/File-size-calculator/Required-jars/UnityAds"
+			},
+
+			{"Provider":"vungle",
+				"gradle":"com.supersonic.adapters:vungleadapter:1.1.6@jar",
+					"reqjars":"/documents/Helpful-tools/File-size-calculator/Required-jars/Vungle"
+			}]
+}
